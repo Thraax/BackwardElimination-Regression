@@ -1,2 +1,2 @@
 # BackwardElimination-Regression
-Automate backward elimination algorithrm with python
+Automate backward elimination algorithm with python
